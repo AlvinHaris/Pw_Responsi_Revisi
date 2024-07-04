@@ -1,0 +1,1 @@
+export { default } from "file:///D:/IF03/22.11.4711/Respon/Respons/Responsi_pw1/Pw_Responsi-Backup--1/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"
